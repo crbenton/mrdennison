@@ -1,0 +1,23 @@
+{
+  "name": "mrdennison",
+  "version": "0.0.0",
+  "description": "mrdennison.com",
+  "moduleType": [
+    "node"
+  ],
+  "authors": [
+    "Justin Dennison"
+  ],
+  "license": "MIT",
+  "homepage": "mrdennison.com",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "fancybox": "~2.1.5"
+  }
+}
